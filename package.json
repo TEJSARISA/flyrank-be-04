@@ -1,0 +1,12 @@
+{
+  "name": "flyrank-be-04",
+  "version": "1.0.0",
+  "description": "BE-04: Containerize your stack - FlyRank AI Internship",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3"
+  }
+}
